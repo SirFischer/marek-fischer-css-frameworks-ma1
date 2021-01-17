@@ -1,0 +1,18 @@
+
+.cards__title {
+	margin: 50px 0;
+}
+
+.card {
+	height: 200px;
+	border-radius: 15px;
+	margin: 20px auto;
+}
+
+.card--selected {
+	border: 1px solid $primary;
+}
+
+.card--active {
+	background: $primary;
+}

@@ -1,0 +1,13 @@
+body, html {
+	background: $secondary;
+	height: 100%;
+}
+
+body {
+	display: flex;
+	flex-direction: column;
+}
+
+main {
+	flex: 1 0 auto;
+}
